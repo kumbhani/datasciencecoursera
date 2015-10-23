@@ -2,4 +2,4 @@
 ---
 Repo for Coursera Work
 ---
-This repo is for perform Coursera assignemnts.
+This repo is for performing Coursera assignemnts.
